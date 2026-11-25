@@ -5,7 +5,7 @@ permalink: /privacy-policy
 
 # Privacy Policy for Shopping. Simple.
 
-**Effective date:** November 24, 2026
+**Effective date:** November 25, 2026
 
 Shopping. Simple. ("the app") is a shopping list app for Android and iOS published by **See Apps** ("we", "us"). This policy explains what information the app collects, how it is used, who receives it, and the choices you have.
 
@@ -59,7 +59,8 @@ Other members of a list you share can see the list contents and your display nam
 - **Ads and consent:** If your region requires it, you can reopen the ad consent form from Settings ("Ad privacy choices"). On iOS you can change tracking permission in the system Settings. On Android you can reset or delete your advertising ID in your device settings.
 - **Remove ads:** A one-time purchase turns off ads for you and for members of lists you own.
 - **Sharing:** You can leave a shared list, or remove members from lists you own.
-- **Access, correction and deletion:** You can edit your display name and your lists in the app. To access, correct or delete your account and its data, email us at **seeapps99@gmail.com** from the email address on your account. We will act on verified requests within 30 days. Deleting your account deletes your lists and profile; some records may be kept for a limited time where the law requires it.
+- **Access and correction:** You can edit your display name and your lists in the app. To access or correct other data we hold about you, email us at **seeapps99@gmail.com** from the email address on your account. We will act on verified requests within 30 days.
+- **Deleting your account:** In the app, open Settings and choose **Delete account**, then confirm. This permanently deletes your account and the data we hold for it right away: your lists and their items (lists you own are also deleted for anyone you shared them with), your membership in lists owned by others, the invites you created, your profile and your Remove ads purchase record, and we ask RevenueCat to delete its customer record for you. If you cannot open the app, follow the steps at [Delete your account](delete-account) or email **seeapps99@gmail.com** from the email address on your account, and we will delete it within 30 days. Purchases made in Google Play or the App Store remain with those stores, and you can restore a Remove ads purchase on a new account with the same store account.
 
 ## Your rights
 
@@ -67,7 +68,7 @@ Depending on where you live, you may have the right to access, correct, delete, 
 
 ## Retention
 
-We keep your account and lists until you delete them or ask us to delete your account. Purchase records are kept as long as needed to honor your purchase and for accounting and legal purposes.
+We keep your account and lists until you delete your account in the app or ask us to delete it. When you delete your account, your account data and lists are deleted at once. Backups can hold the data for a limited time afterwards. Payment and receipt records kept by Google Play, the App Store and RevenueCat are governed by their own policies.
 
 ## Security
 
